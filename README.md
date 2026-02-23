@@ -1,8 +1,30 @@
-# Hi there it's Jadi! 
+# Hey there, I'm Khady 👋
 
-📚 A Computer Science student in Universitat Rovira i Virgili.
+Computer Engineering student with a background in automation & industrial robotics.
+### Check out my portfolio [here](https://khadyyade.github.io/myportfolio/en/) !
 
-💻 Currently exploring different areas of software development to find what inspires me most.
+---
+### 🚀 Now
+- Building personal projects  
+- Learning ML & data engineering  
+- Looking for a final-year internship (TFG + prácticas)
+---
 
-## Check out my portfolio [here](https://khadyyade.github.io/myportfolio/en/)
+### ⚙️ Tech
+Python · Java · C · SQL  
+pandas · NumPy · scikit-learn · PyTorch  
+OpenCV · MediaPipe  
+PostgreSQL · MySQL  
+Docker · Linux · Git  
+HTML · CSS · JavaScript 
+
+---
+
+
+
+### 🔗 Contact me
+LinkedIn → https://www.linkedin.com/in/khady-yade  
+Email → khadyadediouf@gmail.com
+
+---
 
